@@ -1,5 +1,5 @@
 const metricsData = {
-    "last_updated": "2026-09-21 11:57:11 KST",
+    "last_updated": "2026-09-22 11:57:30 KST",
     "history": [
         {
             "date": "2026-01-31",
@@ -632,6 +632,14 @@ const metricsData = {
             "youtube_avg_views": 356,
             "blog_total_posts": 239,
             "linkedin_followers": 2462
+        },
+        {
+            "date": "2026-09-22",
+            "youtube_subscribers": 333,
+            "youtube_views": 108618,
+            "youtube_avg_views": 362,
+            "blog_total_posts": 239,
+            "linkedin_followers": 2462
         }
     ],
     "recent_blog_posts": [
@@ -698,7 +706,7 @@ const metricsData = {
             "title": "슈피겐이 AI를 사용하는 방식 | 2026 슈피겐코리아 사내 AI 심화교육",
             "thumbnail": "https://i.ytimg.com/vi/w5qWWHs_8u8/mqdefault.jpg",
             "date": "2026-09-11",
-            "views": 457,
+            "views": 463,
             "likes": 7
         },
         {
@@ -706,7 +714,7 @@ const metricsData = {
             "title": "2026 서강대X슈피겐 잡페어",
             "thumbnail": "https://i.ytimg.com/vi/lBAFtPGjC7g/mqdefault.jpg",
             "date": "2026-09-04",
-            "views": 255,
+            "views": 261,
             "likes": 8
         },
         {
@@ -714,7 +722,7 @@ const metricsData = {
             "title": "글로벌 제품 기획/디자인 일경험 인턴 수료식 vlog | 슈피겐코리아",
             "thumbnail": "https://i.ytimg.com/vi/1mpXMtosCVU/mqdefault.jpg",
             "date": "2026-08-26",
-            "views": 746,
+            "views": 747,
             "likes": 15
         },
         {
@@ -738,7 +746,7 @@ const metricsData = {
             "title": "다른 데엔 없고 '독일 아마존'에만 있는 이 단어의 정체 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/AKa_7duO0OY/mqdefault.jpg",
             "date": "2026-08-21",
-            "views": 110,
+            "views": 112,
             "likes": 10
         },
         {
@@ -746,7 +754,7 @@ const metricsData = {
             "title": "글로벌 제품 기획/디자인 일경험 인턴 vlog | 슈피겐코리아",
             "thumbnail": "https://i.ytimg.com/vi/EqzfFkUBmn8/mqdefault.jpg",
             "date": "2026-08-10",
-            "views": 912,
+            "views": 913,
             "likes": 3
         },
         {
@@ -754,7 +762,7 @@ const metricsData = {
             "title": "무더위 시원하게 보내는 법🍦",
             "thumbnail": "https://i.ytimg.com/vi/AXzWmkGg5Gc/mqdefault.jpg",
             "date": "2026-08-03",
-            "views": 1450,
+            "views": 1451,
             "likes": 11
         },
         {
@@ -786,7 +794,7 @@ const metricsData = {
             "title": "330조 원 시장 프랑스🗼가 가진 독특한 소비 기준 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/7JvbwJK266w/mqdefault.jpg",
             "date": "2026-07-29",
-            "views": 153,
+            "views": 151,
             "likes": 9
         },
         {
@@ -794,7 +802,7 @@ const metricsData = {
             "title": "조코딩, 슈피겐에 등장! | 조코딩 AI 특강 현장스케치",
             "thumbnail": "https://i.ytimg.com/vi/DCuwHf8EKXk/mqdefault.jpg",
             "date": "2026-07-22",
-            "views": 721,
+            "views": 722,
             "likes": 18
         },
         {
@@ -802,7 +810,7 @@ const metricsData = {
             "title": "Z세대의 시선👀으로 브랜드를 재해석하는 서포터즈 | 슈피겐X연세대 ADCUS 서포터즈 해단식🎉",
             "thumbnail": "https://i.ytimg.com/vi/jxiaaRVzL3w/mqdefault.jpg",
             "date": "2026-07-14",
-            "views": 573,
+            "views": 575,
             "likes": 9
         },
         {
@@ -850,7 +858,7 @@ const metricsData = {
             "title": "슈피겐 신규입사자 워크숍에서 바이브코딩 교육을 한 이유? | 2026 슈피겐코리아 신규입사자 워크숍",
             "thumbnail": "https://i.ytimg.com/vi/HtT4TeyU2E8/mqdefault.jpg",
             "date": "2026-06-22",
-            "views": 474,
+            "views": 475,
             "likes": 9
         },
         {
@@ -866,7 +874,7 @@ const metricsData = {
             "title": "입사 한 달차를 모두 모은 이유? 슈피겐의 온보딩 프로그램 '월간 체크인🔎'",
             "thumbnail": "https://i.ytimg.com/vi/djq41wjSnbQ/mqdefault.jpg",
             "date": "2026-06-18",
-            "views": 531,
+            "views": 536,
             "likes": 10
         },
         {
@@ -930,7 +938,7 @@ const metricsData = {
             "title": "아마존이 '고전'하는 나라? 싱가포르의 1,2위 플랫폼, 쇼피와 라자다 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/Zfz-75wLfYY/mqdefault.jpg",
             "date": "2026-04-28",
-            "views": 404,
+            "views": 405,
             "likes": 21
         },
         {
@@ -938,7 +946,7 @@ const metricsData = {
             "title": "어서 와, 신입사원은 처음이지? ✨ 신규입사자의 출근 첫날 VLOG",
             "thumbnail": "https://i.ytimg.com/vi/sGkR4slN6a4/mqdefault.jpg",
             "date": "2026-04-21",
-            "views": 666,
+            "views": 670,
             "likes": 15
         },
         {
@@ -978,7 +986,7 @@ const metricsData = {
             "title": "📢현직자피셜📢 해외 영업 담당이 가져야 할 3가지 핵심 역량",
             "thumbnail": "https://i.ytimg.com/vi/ZdF-Hp31a2U/mqdefault.jpg",
             "date": "2026-03-17",
-            "views": 2807,
+            "views": 2818,
             "likes": 19
         },
         {
@@ -1010,7 +1018,7 @@ const metricsData = {
             "title": "리더들이 같이 일하고 싶은 사람은?",
             "thumbnail": "https://i.ytimg.com/vi/i3OqxinrYkg/mqdefault.jpg",
             "date": "2026-02-27",
-            "views": 802,
+            "views": 803,
             "likes": 10
         },
         {
@@ -1058,7 +1066,7 @@ const metricsData = {
             "title": "아마존 베스트셀러 기업의 사옥은 어떻게 생겼을까?👀ㅣ슈피겐코리아 랜선 오피스투어🚩",
             "thumbnail": "https://i.ytimg.com/vi/a_T3JJtkRFE/mqdefault.jpg",
             "date": "2026-01-30",
-            "views": 1671,
+            "views": 1675,
             "likes": 7
         },
         {
@@ -1074,7 +1082,7 @@ const metricsData = {
             "title": "슈피겐코리아가 만들어가는 '일하는 방식' - 회계 RPA 자동화 사례",
             "thumbnail": "https://i.ytimg.com/vi/XteRE-5ZB6c/mqdefault.jpg",
             "date": "2026-01-05",
-            "views": 696,
+            "views": 699,
             "likes": 18
         }
     ],
@@ -1084,42 +1092,42 @@ const metricsData = {
             "title": "직무 이야기 : 해외마케팅팀 글로벌 퍼포먼스 마케팅",
             "category": "Job",
             "date": "2026-09-21",
-            "views": 3
+            "views": 22
         },
         {
             "id": "1185",
             "title": "팀 인터뷰 : 페스티버전략팀",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 41
+            "views": 68
         },
         {
             "id": "1184",
             "title": "직무이야기 : FDI전략기획팀 글로벌SCM",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 47
+            "views": 75
         },
         {
             "id": "1183",
             "title": "직무 이야기 : 테크소싱팀 구매관리",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 42
+            "views": 63
         },
         {
             "id": "1182",
             "title": "직무 이야기 : 클리어프로텍션개발팀 기구개발",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 24
+            "views": 38
         },
         {
             "id": "1178",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 패키지디자인팀",
             "category": "Culture",
             "date": "2026-08-25",
-            "views": 143
+            "views": 144
         },
         {
             "id": "1168",
@@ -1133,49 +1141,49 @@ const metricsData = {
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 해외사업부문",
             "category": "Culture",
             "date": "2026-06-12",
-            "views": 676
+            "views": 677
         },
         {
             "id": "1166",
             "title": "골프공으로 시장을 설득하는 법",
             "category": "Culture",
             "date": "2026-06-11",
-            "views": 787
+            "views": 793
         },
         {
             "id": "1165",
             "title": "직무 이야기 : 모바일제품개발팀 제품 디자이너",
             "category": "Job",
             "date": "2026-06-11",
-            "views": 714
+            "views": 718
         },
         {
             "id": "1159",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 고객경험전략팀",
             "category": "Culture",
             "date": "2026-05-29",
-            "views": 795
+            "views": 797
         },
         {
             "id": "1158",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 연구개발부문",
             "category": "Culture",
             "date": "2026-05-18",
-            "views": 931
+            "views": 934
         },
         {
             "id": "1155",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 인재개발팀",
             "category": "Culture",
             "date": "2026-05-07",
-            "views": 970
+            "views": 971
         },
         {
             "id": "1153",
             "title": "매일의 충전을 다시 설계하다",
             "category": "& Design",
             "date": "2026-04-28",
-            "views": 918
+            "views": 919
         },
         {
             "id": "1151",
@@ -1196,35 +1204,35 @@ const metricsData = {
             "title": "[Brand Insight] 모바일 액세서리 1위를 넘어 골프 시장의 게임 체인저로, '레가토(Legato)'",
             "category": "Culture",
             "date": "2026-03-13",
-            "views": 1186
+            "views": 1187
         },
         {
             "id": "1141",
             "title": "[Playlist] 우수사원 - 동단비프로의 워크 키트",
             "category": "People",
             "date": "2026-02-23",
-            "views": 1236
+            "views": 1237
         },
         {
             "id": "1140",
             "title": "[Playlist] 우수사원 - 나아름프로의 워크 키트",
             "category": "People",
             "date": "2026-02-13",
-            "views": 690
+            "views": 691
         },
         {
             "id": "1138",
             "title": "슈피겐코리아 랜선 오피스투어",
             "category": "Culture",
             "date": "2026-02-02",
-            "views": 1011
+            "views": 1016
         },
         {
             "id": "1137",
             "title": "[Playlist] 우수사원 - 이재승리더의 워크 키트",
             "category": "People",
             "date": "2026-01-29",
-            "views": 727
+            "views": 728
         },
         {
             "id": "1136",
