@@ -1,5 +1,5 @@
 const metricsData = {
-    "last_updated": "2026-09-29 12:49:40 KST",
+    "last_updated": "2026-09-30 12:37:57 KST",
     "history": [
         {
             "date": "2026-01-31",
@@ -696,6 +696,14 @@ const metricsData = {
             "youtube_avg_views": 946,
             "blog_total_posts": 240,
             "linkedin_followers": 2462
+        },
+        {
+            "date": "2026-09-30",
+            "youtube_subscribers": 339,
+            "youtube_views": 114632,
+            "youtube_avg_views": 956,
+            "blog_total_posts": 240,
+            "linkedin_followers": 2462
         }
     ],
     "recent_blog_posts": [
@@ -762,32 +770,32 @@ const metricsData = {
             "title": "인도의 이커머스 시장이 성장할 수 있었던 이유 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/Sup7lsqGufE/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 653,
-            "likes": 7
+            "views": 662,
+            "likes": 8
         },
         {
             "id": "XuDbbwXWf2Y",
             "title": "인도의 독특한 산업구조 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/XuDbbwXWf2Y/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 2022,
-            "likes": 17
+            "views": 2030,
+            "likes": 18
         },
         {
             "id": "TOjLHD2Dq00",
             "title": "인도를 바꾼 두 가지 핵심 경제 정책 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/TOjLHD2Dq00/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 1526,
-            "likes": 9
+            "views": 1532,
+            "likes": 10
         },
         {
             "id": "PyFAsJ5joy4",
             "title": "14억 인구를 하나로 묶은 연결의 힘 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/PyFAsJ5joy4/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 708,
-            "likes": 13
+            "views": 743,
+            "likes": 15
         },
         {
             "id": "w5qWWHs_8u8",
@@ -802,7 +810,7 @@ const metricsData = {
             "title": "2026 서강대X슈피겐 잡페어",
             "thumbnail": "https://i.ytimg.com/vi/lBAFtPGjC7g/mqdefault.jpg",
             "date": "2026-09-04",
-            "views": 283,
+            "views": 285,
             "likes": 10
         },
         {
@@ -834,7 +842,7 @@ const metricsData = {
             "title": "다른 데엔 없고 '독일 아마존'에만 있는 이 단어의 정체 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/AKa_7duO0OY/mqdefault.jpg",
             "date": "2026-08-21",
-            "views": 125,
+            "views": 126,
             "likes": 10
         },
         {
@@ -890,7 +898,7 @@ const metricsData = {
             "title": "조코딩, 슈피겐에 등장! | 조코딩 AI 특강 현장스케치",
             "thumbnail": "https://i.ytimg.com/vi/DCuwHf8EKXk/mqdefault.jpg",
             "date": "2026-07-22",
-            "views": 729,
+            "views": 730,
             "likes": 18
         },
         {
@@ -898,7 +906,7 @@ const metricsData = {
             "title": "Z세대의 시선👀으로 브랜드를 재해석하는 서포터즈 | 슈피겐X연세대 ADCUS 서포터즈 해단식🎉",
             "thumbnail": "https://i.ytimg.com/vi/jxiaaRVzL3w/mqdefault.jpg",
             "date": "2026-07-14",
-            "views": 587,
+            "views": 588,
             "likes": 9
         },
         {
@@ -1026,7 +1034,7 @@ const metricsData = {
             "title": "아마존이 '고전'하는 나라? 싱가포르의 1,2위 플랫폼, 쇼피와 라자다 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/Zfz-75wLfYY/mqdefault.jpg",
             "date": "2026-04-28",
-            "views": 408,
+            "views": 409,
             "likes": 21
         },
         {
@@ -1034,7 +1042,7 @@ const metricsData = {
             "title": "어서 와, 신입사원은 처음이지? ✨ 신규입사자의 출근 첫날 VLOG",
             "thumbnail": "https://i.ytimg.com/vi/sGkR4slN6a4/mqdefault.jpg",
             "date": "2026-04-21",
-            "views": 698,
+            "views": 700,
             "likes": 15
         },
         {
@@ -1074,7 +1082,7 @@ const metricsData = {
             "title": "📢현직자피셜📢 해외 영업 담당이 가져야 할 3가지 핵심 역량",
             "thumbnail": "https://i.ytimg.com/vi/ZdF-Hp31a2U/mqdefault.jpg",
             "date": "2026-03-17",
-            "views": 2879,
+            "views": 2886,
             "likes": 20
         },
         {
@@ -1082,7 +1090,7 @@ const metricsData = {
             "title": "해외전략사업부의 글로벌 비즈니스 A to Z",
             "thumbnail": "https://i.ytimg.com/vi/h4oXn3312Yw/mqdefault.jpg",
             "date": "2026-03-17",
-            "views": 491,
+            "views": 492,
             "likes": 5
         },
         {
@@ -1090,7 +1098,7 @@ const metricsData = {
             "title": "전 세계 50개국 시장을 장악한 글로벌 전략가들🔥ㅣ슈피겐코리아의 해외전략사업부를 소개합니다",
             "thumbnail": "https://i.ytimg.com/vi/bOcMaDLEsoE/mqdefault.jpg",
             "date": "2026-03-13",
-            "views": 894,
+            "views": 896,
             "likes": 19
         },
         {
@@ -1138,7 +1146,7 @@ const metricsData = {
             "title": "아마존 이커머스 시장을 주도하는 1,000억 사업부🔥ㅣ 슈피겐코리아의 아마존직판사업부를 소개합니다",
             "thumbnail": "https://i.ytimg.com/vi/ERlv50cB2CM/mqdefault.jpg",
             "date": "2026-02-27",
-            "views": 770,
+            "views": 771,
             "likes": 26
         },
         {
@@ -1164,147 +1172,147 @@ const metricsData = {
             "title": "직무 이야기 : 3D&영상팀 3D 디자인",
             "category": "Job",
             "date": "2026-09-23",
-            "views": 80
+            "views": 88
         },
         {
             "id": "1186",
             "title": "직무 이야기 : 해외마케팅팀 글로벌 퍼포먼스 마케팅",
             "category": "Job",
             "date": "2026-09-21",
-            "views": 187
+            "views": 198
         },
         {
             "id": "1185",
             "title": "팀 인터뷰 : 페스티버전략팀",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 134
+            "views": 139
         },
         {
             "id": "1184",
             "title": "직무이야기 : FDI전략기획팀 글로벌SCM",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 255
+            "views": 261
         },
         {
             "id": "1183",
             "title": "직무 이야기 : 테크소싱팀 구매관리",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 195
+            "views": 202
         },
         {
             "id": "1182",
             "title": "직무 이야기 : 클리어프로텍션개발팀 기구개발",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 98
+            "views": 101
         },
         {
             "id": "1178",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 패키지디자인팀",
             "category": "Culture",
             "date": "2026-08-25",
-            "views": 175
+            "views": 177
         },
         {
             "id": "1168",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - FDI전략기획팀",
             "category": "Culture",
             "date": "2026-06-12",
-            "views": 688
+            "views": 691
         },
         {
             "id": "1167",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 해외사업부문",
             "category": "Culture",
             "date": "2026-06-12",
-            "views": 720
+            "views": 722
         },
         {
             "id": "1166",
             "title": "골프공으로 시장을 설득하는 법",
             "category": "Culture",
             "date": "2026-06-11",
-            "views": 855
+            "views": 858
         },
         {
             "id": "1165",
             "title": "직무 이야기 : 모바일제품개발팀 제품 디자이너",
             "category": "Job",
             "date": "2026-06-11",
-            "views": 750
+            "views": 754
         },
         {
             "id": "1159",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 고객경험전략팀",
             "category": "Culture",
             "date": "2026-05-29",
-            "views": 824
+            "views": 832
         },
         {
             "id": "1158",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 연구개발부문",
             "category": "Culture",
             "date": "2026-05-18",
-            "views": 953
+            "views": 956
         },
         {
             "id": "1155",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 인재개발팀",
             "category": "Culture",
             "date": "2026-05-07",
-            "views": 988
+            "views": 990
         },
         {
             "id": "1153",
             "title": "매일의 충전을 다시 설계하다",
             "category": "& Design",
             "date": "2026-04-28",
-            "views": 945
+            "views": 947
         },
         {
             "id": "1151",
             "title": "슈피겐, 기술을 넘어 기억까지 보호하다",
             "category": "& Design",
             "date": "2026-04-17",
-            "views": 999
+            "views": 1006
         },
         {
             "id": "1148",
             "title": "[Playlist] 우수사원 - 김회섭프로의 워크 키트",
             "category": "People",
             "date": "2026-03-26",
-            "views": 957
+            "views": 959
         },
         {
             "id": "1142",
             "title": "[Brand Insight] 모바일 액세서리 1위를 넘어 골프 시장의 게임 체인저로, '레가토(Legato)'",
             "category": "Culture",
             "date": "2026-03-13",
-            "views": 1214
+            "views": 1215
         },
         {
             "id": "1141",
             "title": "[Playlist] 우수사원 - 동단비프로의 워크 키트",
             "category": "People",
             "date": "2026-02-23",
-            "views": 1247
+            "views": 1249
         },
         {
             "id": "1140",
             "title": "[Playlist] 우수사원 - 나아름프로의 워크 키트",
             "category": "People",
             "date": "2026-02-13",
-            "views": 700
+            "views": 701
         },
         {
             "id": "1138",
             "title": "슈피겐코리아 랜선 오피스투어",
             "category": "Culture",
             "date": "2026-02-02",
-            "views": 1046
+            "views": 1049
         },
         {
             "id": "1137",
@@ -1318,14 +1326,14 @@ const metricsData = {
             "title": "인프라관리: 비즈니스 연속성을 만드는 엔지니어",
             "category": "Job",
             "date": "2026-01-20",
-            "views": 629
+            "views": 631
         },
         {
             "id": "1135",
             "title": "26년 시무식 현장",
             "category": "Culture",
             "date": "2026-01-07",
-            "views": 726
+            "views": 732
         }
     ],
     "linkedin_posts_list": [
