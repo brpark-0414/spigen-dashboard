@@ -1,5 +1,5 @@
 const metricsData = {
-    "last_updated": "2026-10-01 10:24:50 KST",
+    "last_updated": "2026-10-01 12:43:46 KST",
     "history": [
         {
             "date": "2026-01-31",
@@ -778,7 +778,7 @@ const metricsData = {
             "title": "인도의 이커머스 시장이 성장할 수 있었던 이유 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/Sup7lsqGufE/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 664,
+            "views": 665,
             "likes": 8
         },
         {
@@ -786,7 +786,7 @@ const metricsData = {
             "title": "인도의 독특한 산업구조 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/XuDbbwXWf2Y/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 2033,
+            "views": 2036,
             "likes": 19
         },
         {
@@ -794,7 +794,7 @@ const metricsData = {
             "title": "인도를 바꾼 두 가지 핵심 경제 정책 | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/TOjLHD2Dq00/mqdefault.jpg",
             "date": "2026-09-23",
-            "views": 1533,
+            "views": 1534,
             "likes": 11
         },
         {
@@ -866,7 +866,7 @@ const metricsData = {
             "title": "무더위 시원하게 보내는 법🍦",
             "thumbnail": "https://i.ytimg.com/vi/AXzWmkGg5Gc/mqdefault.jpg",
             "date": "2026-08-03",
-            "views": 1458,
+            "views": 1459,
             "likes": 16
         },
         {
@@ -874,7 +874,7 @@ const metricsData = {
             "title": "프랑스 아마존 셀러가 꼭 지켜야하는 '이것'? | 글로벌 체크인",
             "thumbnail": "https://i.ytimg.com/vi/UR5YOqf9ggA/mqdefault.jpg",
             "date": "2026-07-31",
-            "views": 1510,
+            "views": 1511,
             "likes": 7
         },
         {
@@ -1194,7 +1194,7 @@ const metricsData = {
             "title": "팀 인터뷰 : 페스티버전략팀",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 144
+            "views": 145
         },
         {
             "id": "1184",
@@ -1208,21 +1208,21 @@ const metricsData = {
             "title": "직무 이야기 : 테크소싱팀 구매관리",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 206
+            "views": 207
         },
         {
             "id": "1182",
             "title": "직무 이야기 : 클리어프로텍션개발팀 기구개발",
             "category": "Job",
             "date": "2026-09-18",
-            "views": 108
+            "views": 109
         },
         {
             "id": "1178",
             "title": "AI를 쓰는 팀에서 AI와 일하는 팀으로 - 패키지디자인팀",
             "category": "Culture",
             "date": "2026-08-25",
-            "views": 184
+            "views": 185
         },
         {
             "id": "1168",
@@ -1243,14 +1243,14 @@ const metricsData = {
             "title": "골프공으로 시장을 설득하는 법",
             "category": "Culture",
             "date": "2026-06-11",
-            "views": 865
+            "views": 866
         },
         {
             "id": "1165",
             "title": "직무 이야기 : 모바일제품개발팀 제품 디자이너",
             "category": "Job",
             "date": "2026-06-11",
-            "views": 759
+            "views": 761
         },
         {
             "id": "1159",
@@ -1370,20 +1370,20 @@ const metricsData = {
             "shares": 0
         },
         {
-            "id": "7506553700123824130",
-            "url": "https://www.linkedin.com/posts/spigenkorea_svkujoqrctgkreesji-suasvasmpsun-stwtecrgoswm-activity-7506553700123824130-lyAc",
-            "content": "📢 [슈피겐코리아] 경력 및 채용연계형 인턴 모집 : 9/18(금) ~ 9/27(일)",
-            "date": "2026-09-18",
-            "likes": 15,
-            "shares": 2
-        },
-        {
             "id": "7506545572334538753",
             "url": "https://www.linkedin.com/posts/spigenkorea_svkujoqrctgkreesji-qtesqbqpkrbvrwwsutqtksmx-activity-7506545572334538753-59FR",
             "content": "🎉인적자원개발 최우수기업 고용노동부 장관상 수상",
             "date": "2026-09-18",
             "likes": 38,
             "shares": 3
+        },
+        {
+            "id": "7506553700123824130",
+            "url": "https://www.linkedin.com/posts/spigenkorea_svkujoqrctgkreesji-suasvasmpsun-stwtecrgoswm-activity-7506553700123824130-lyAc",
+            "content": "📢 [슈피겐코리아] 경력 및 채용연계형 인턴 모집 : 9/18(금) ~ 9/27(일)",
+            "date": "2026-09-18",
+            "likes": 15,
+            "shares": 2
         },
         {
             "id": "7505188760729595904",
@@ -1570,20 +1570,20 @@ const metricsData = {
             "shares": 0
         },
         {
-            "id": "7449332354159902721",
-            "url": "https://www.linkedin.com/posts/spigenkorea_svkujoqrctgkreesji-suattq-rwwttq-activity-7449332354159902721-82SZ",
-            "content": "슈피겐코리아, 임직원이 직접 만든 기부금 1,000만 원",
-            "date": "2026-04-13",
-            "likes": 33,
-            "shares": 0
-        },
-        {
             "id": "7449337644095832065",
             "url": "https://www.linkedin.com/posts/spigenkorea_%EC%8A%88%ED%94%BC%EA%B2%90-%EC%9D%B8%EC%9E%AC%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%EB%B4%84%EC%82%B0%EC%B1%85-1%EC%B4%88-%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8-activity-7449337644095832065-PnB_",
             "content": "슈피겐코리아의 봄 맞이 방법 <산책하고 인생샷>",
             "date": "2026-04-13",
             "likes": 14,
             "shares": 1
+        },
+        {
+            "id": "7449332354159902721",
+            "url": "https://www.linkedin.com/posts/spigenkorea_svkujoqrctgkreesji-suattq-rwwttq-activity-7449332354159902721-82SZ",
+            "content": "슈피겐코리아, 임직원이 직접 만든 기부금 1,000만 원",
+            "date": "2026-04-13",
+            "likes": 33,
+            "shares": 0
         },
         {
             "id": "7445660372222521344",
