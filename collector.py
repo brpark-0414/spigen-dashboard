@@ -11,7 +11,7 @@ load_dotenv()
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY')
 YOUTUBE_CHANNEL_ID = "UCKBxMS12tw6l-CcxBpLOzNw"  # 슈피겐코리아 채용/문화 채널
 BLOG_URL = "https://www.spigenkorea.co.kr/culture/news.php"
-APIFY_TOKEN = os.environ.get('APIFY_TOKEN')
+APIFY_TOKEN = (os.environ.get('APIFY_TOKEN') or '').strip()  # 시크릿 붙여넣기 시 섞인 줄바꿈/공백 제거
 LINKEDIN_COMPANY_URL = "https://www.linkedin.com/company/spigenkorea/"
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(BASE_DIR, "data", "metrics.json")
@@ -129,6 +129,7 @@ def get_linkedin_data():
         )
         run_id = r.json().get('data', {}).get('id', '')
         if not run_id:
+            print(f"LinkedIn 수집 오류: Apify 실행 시작 실패 (HTTP {r.status_code}) {r.text[:200]}")
             return None
 
         for _ in range(30):
@@ -141,6 +142,7 @@ def get_linkedin_data():
                 break
 
         if status != 'SUCCEEDED':
+            print(f"LinkedIn 수집 오류: Apify 실행이 완료되지 않음 (status={status or 'TIMEOUT'})")
             return None
 
         items = requests.get(
@@ -175,6 +177,9 @@ def get_linkedin_data():
             })
 
         posts.sort(key=lambda x: x['date'], reverse=True)
+        if not followers:
+            print("LinkedIn 수집 오류: 팔로워 수를 읽지 못함 (Apify 응답 형식 변경 가능성)")
+            return None
         print(f"  LinkedIn 팔로워: {followers}, 게시물: {len(posts)}개")
         return {"followers": followers, "posts": posts}
 
@@ -313,6 +318,15 @@ def main():
         f.write(";\n")
         
     print(f"데이터 수집 완료! ({current_time})")
+
+    # LinkedIn 수집 실패를 워크플로에서 눈에 띄게 하기 위한 신호 (데이터 저장은 이미 끝난 뒤)
+    linkedin_ok = bool(linkedin_data)
+    if not linkedin_ok:
+        print("::error title=LinkedIn 수집 실패::LinkedIn 데이터가 갱신되지 않았습니다. 위 로그의 'LinkedIn 수집 오류'를 확인하세요.")
+    gh_output = os.environ.get('GITHUB_OUTPUT')
+    if gh_output:
+        with open(gh_output, 'a', encoding='utf-8') as f:
+            f.write(f"linkedin_ok={'true' if linkedin_ok else 'false'}\n")
 
 if __name__ == "__main__":
     main()

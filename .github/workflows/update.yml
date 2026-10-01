@@ -27,6 +27,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run collector script
+        id: collect
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           SPREADSHEET_ID: ${{ secrets.SPREADSHEET_ID }}
@@ -49,3 +50,9 @@ jobs:
           git commit -m "Auto-update dashboard data" || exit 0
           git pull --rebase origin main
           git push
+
+      - name: Fail if LinkedIn collection failed
+        if: steps.collect.outputs.linkedin_ok == 'false'
+        run: |
+          echo "LinkedIn 수집 실패 - APIFY_TOKEN 시크릿과 Apify 크레딧을 확인하세요."
+          exit 1
